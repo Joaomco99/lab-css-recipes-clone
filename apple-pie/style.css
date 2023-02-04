@@ -1,0 +1,75 @@
+h1, body, html, main {
+  margin: 0;
+}
+/*Import the font and set the default size*/
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px
+}
+  
+
+  .header{
+   
+
+    background-image: url('https://raw.githubusercontent.com/Joaomco99/lab-css-recipes-clone/master/apple-pie/images/apple-pie.jpg');
+        background-position: 0 0;
+        background-size:cover;
+        background-repeat: no-repeat;
+        height: 650px;
+        padding-top: 50px;
+        position: relative;
+      }
+
+      
+      .headertxt {
+        color: white;
+        text-align: center;
+        font-size: 50pt;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 8em;
+      }
+
+      .section-text {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 4em;
+        font-size: 20pt;
+        text-align: left;
+      }
+
+      .img02 img{
+        display: block; 
+        margin: 0 auto;
+      }
+
+      .ingredientstxt {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0 0 20px 100px;
+      font-size: 20pt;
+      text-align: left;
+      }
+
+      .list {
+        font-family: Arial, Helvetica, sans-serif;
+      margin: 0 0 10px 115px;
+      font-size: 12pt;
+      text-align: left;
+      }
+
+      .img03 img{
+        display: block; 
+        margin: 50px auto 0 auto;
+      }
+
+      .directionstxt {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0 0 20px 100px;
+        font-size: 20pt;
+        text-align: left;
+        }
+
+        .directions {
+          font-family: Arial, Helvetica, sans-serif;
+        margin: 0 0 10px 115px;
+        font-size: 12pt;
+        text-align: left;
+        }
